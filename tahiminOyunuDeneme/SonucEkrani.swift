@@ -28,6 +28,7 @@ class SonucEkrani: UIViewController {
     }
     
     @IBAction func tekrarOynaButton(_ sender: Any) {
+        ////kjbhlajhlahfaolıshfaf
     }
     
     
