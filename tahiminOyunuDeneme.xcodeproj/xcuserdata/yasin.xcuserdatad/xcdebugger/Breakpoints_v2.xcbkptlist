@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "533C6AF3-BE50-4F23-80F2-24CD52933DC5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E0A6512-DC68-4D14-830F-B3DF9E5B418D"
+            shouldBeEnabled = "No"
+            nameForDebugger = "KazanmaSegue"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tahiminOyunuDeneme/TahminEkrani.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "tarhminEtButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD2A1949-B716-40F6-BA6D-36634A1B93EB"
+            shouldBeEnabled = "No"
+            nameForDebugger = "kaybetmeSegue"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "tahiminOyunuDeneme/TahminEkrani.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "tarhminEtButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
